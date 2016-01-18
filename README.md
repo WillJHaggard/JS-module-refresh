@@ -41,4 +41,3 @@ We will break this exercise into four tasks.
 
 1. The person selecting event should scroll the carousel to show the person that's been selected.
 2. Highlight the selected person in the carousel.
-# JS-module-refresh
